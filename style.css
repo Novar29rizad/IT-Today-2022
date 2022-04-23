@@ -1011,8 +1011,37 @@ section {
   background: rgb(32 39 73);
   color: #f1f1f1;
   width: 100%;
-  padding: 20px;
+  height: 80px;
+  padding: 10%;
+  align-items: center;
 }
+
+/* ISI CARD */
+.activityname{
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0px;
+  color: #ffffff;
+  background: rgb(32 39 73);
+  width: 100%;
+  height: 65px;
+  padding: 18px;
+}
+
+.konten {
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0px;
+  width: 100%;
+  height: 100px;
+}
+
+/* .kontencustome2 .kontencustome1{
+
+} */
+
 
 .nameProfile{
   position: absolute;
